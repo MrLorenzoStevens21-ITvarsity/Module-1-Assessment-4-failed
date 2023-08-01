@@ -1,0 +1,27 @@
+
+
+
+table {
+    font-family: Helvetica; sans-serif;
+    border-collapse: collapse;
+    border-width: 1px;
+    border-style: solid;
+    border-color: #7058CE;
+}
+th {
+   font-weight: 100;
+    background-color: #088A85;
+    color: #088A85;
+}
+table{
+      font-family    : Helvetica, sans-sarif;
+      border-collapse: collapse;
+      border-width   : 1px;
+      border-style   : solid;
+      border-color   : #2695A6;
+}
+p {
+   font-weight: 800;
+    text-decoration: line-through;
+    
+}
